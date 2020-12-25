@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="139728" started-at="2020-12-22T08:33:40Z" finished-at="2020-12-22T08:35:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="139728" started-at="2020-12-22T08:33:40Z" finished-at="2020-12-22T08:35:59Z">
+      <class name="TestSuites.Test1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSuites.Test1@c038203]" name="setup" is-config="true" duration-ms="23274" started-at="2020-12-22T14:03:41Z" finished-at="2020-12-22T14:04:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSuites.Test1@c038203]" name="fillUserForm" duration-ms="13949" started-at="2020-12-22T14:04:04Z" data-provider="StudentData" finished-at="2020-12-22T14:04:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Saroja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[70.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[55.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[65.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[75.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[80.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSuites.Test1@c038203]" name="tearDown" is-config="true" duration-ms="556" started-at="2020-12-22T14:04:18Z" finished-at="2020-12-22T14:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSuites.Test1@c038203]" name="setup" is-config="true" duration-ms="9277" started-at="2020-12-22T14:04:18Z" finished-at="2020-12-22T14:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSuites.Test1@c038203]" name="fillUserForm" duration-ms="12871" started-at="2020-12-22T14:04:28Z" data-provider="StudentData" finished-at="2020-12-22T14:04:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Krishnamoorthy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[80.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[65.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[60.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[50.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[75.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSuites.Test1@c038203]" name="tearDown" is-config="true" duration-ms="157" started-at="2020-12-22T14:04:41Z" finished-at="2020-12-22T14:04:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSuites.Test1@c038203]" name="setup" is-config="true" duration-ms="11406" started-at="2020-12-22T14:04:41Z" finished-at="2020-12-22T14:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSuites.Test1@c038203]" name="fillUserForm" duration-ms="14392" started-at="2020-12-22T14:04:52Z" data-provider="StudentData" finished-at="2020-12-22T14:05:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Balaji]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[90.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[70.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[55.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[60.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[45.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSuites.Test1@c038203]" name="tearDown" is-config="true" duration-ms="261" started-at="2020-12-22T14:05:06Z" finished-at="2020-12-22T14:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSuites.Test1@c038203]" name="setup" is-config="true" duration-ms="13454" started-at="2020-12-22T14:05:07Z" finished-at="2020-12-22T14:05:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSuites.Test1@c038203]" name="fillUserForm" duration-ms="13275" started-at="2020-12-22T14:05:20Z" data-provider="StudentData" finished-at="2020-12-22T14:05:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Archana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[75.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[60.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[90.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[65.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[65.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSuites.Test1@c038203]" name="tearDown" is-config="true" duration-ms="96" started-at="2020-12-22T14:05:33Z" finished-at="2020-12-22T14:05:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSuites.Test1@c038203]" name="setup" is-config="true" duration-ms="11365" started-at="2020-12-22T14:05:34Z" finished-at="2020-12-22T14:05:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestSuites.Test1@c038203]" name="fillUserForm" duration-ms="14344" started-at="2020-12-22T14:05:45Z" data-provider="StudentData" finished-at="2020-12-22T14:05:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Somu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[65.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[100.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[55.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[75.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSuites.Test1@c038203]" name="tearDown" is-config="true" duration-ms="73" started-at="2020-12-22T14:05:59Z" finished-at="2020-12-22T14:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestSuites.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
